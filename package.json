@@ -1,0 +1,20 @@
+{
+  "name": "fastify-test",
+  "version": "1.0.0",
+  "description": "Test fastify project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fastify",
+    "node"
+  ],
+  "author": "Tuzelbekov Nurbek",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.17.0",
+    "pino": "^6.11.3",
+    "tap": "^15.0.9"
+  }
+}
